@@ -8,19 +8,16 @@ function App() {
 
   return (
     <>
-      <nav class='bg-sky-200 flex justify-between p-2 '>
-        <div class='w-20 bg-amber-300 p-2'>
-          Vite
-        </div>
-        <ul class='flex align-middle gap-10 p-2'>
+      <nav class=' flex justify-between gap-11  rounded-2xl h-15  '>
+          <p class='w-20 flex justify-center items-center bg-amber-300 h-15 rounded-2xl'> Vite</p>
+        <ul class='flex justify-center items-center gap-10 '>
           <li><a href="#">Home</a></li>
           <li><a href="#">Articles</a></li>
           <li><a href="#">Projects</a></li>
           <li><a href="#">About Us</a></li>
         </ul>
-        <button class='w-20 bg-amber-300 p-2'>Sign Up</button>
+        <button class='w-32  bg-amber-300 rounded-2xl hover:bg-amber-400 font-bold '>Sign Up</button>
       </nav>
-      
       
     </>
   )
