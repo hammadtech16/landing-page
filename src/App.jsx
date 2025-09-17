@@ -14,7 +14,7 @@ function App() {
           <li><a href="#">Home</a></li>
           <li><a href="#">Articles</a></li>
           <li><a href="#">Projects</a></li>
-          <li><a href="#">About Us</a></li>
+          <li><a href="#">About U</a></li>
         </ul>
         <button class='w-32  bg-amber-300 rounded-2xl hover:bg-amber-400 font-bold '>Sign Up</button>
       </nav>
